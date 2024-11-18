@@ -18,8 +18,6 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="15" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
@@ -28,8 +26,12 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/dart/0175C2" height="50" alt="Dart logo" />
 <img width="15" />
+  <img src="https://cdn.simpleicons.org/dart/0175C2" height="50" alt="Dart logo" />
+<img width="15" />
 <img src="https://cdn.simpleicons.org/flutter/02569B" height="50" alt="Flutter logo" />
-  <img width="15" />
+<img width="15" />
+<img src="https://cdn.simpleicons.org/firebase/
+
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="50" alt="github logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="postman logo"  />
