@@ -26,29 +26,15 @@
   <img width="15" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" height="50" alt="cpp logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="docker logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
+  <img src="https://cdn.simpleicons.org/dart/0175C2" height="50" alt="Dart logo" />
+<img width="15" />
+<img src="https://cdn.simpleicons.org/flutter/02569B" height="50" alt="Flutter logo" />
   <img width="15" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="50" alt="github logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="50" alt="nginx logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="50" alt="npm logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo"  />
-  <img width="15" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="postman logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" alt="postgresql logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="50" alt="socketio logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
+ 
+  
 </div>
 
 
